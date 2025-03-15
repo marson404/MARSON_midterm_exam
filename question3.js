@@ -3,7 +3,7 @@ const app = express();
 
 // Define the /test route
 app.get('/test', (req, res) => {
-    res.json({ message: 'Express is working! Write your full name' });
+    res.json({ message: 'Express is working! JOMARI C. Marson' });
 });
 
 // Start the server on port 3000
