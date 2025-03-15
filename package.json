@@ -1,0 +1,23 @@
+{
+  "name": "marson_midterm_exam",
+  "version": "1.0.0",
+  "main": "question1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marson404/MARSON_midterm_exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marson404/MARSON_midterm_exam/issues"
+  },
+  "homepage": "https://github.com/marson404/MARSON_midterm_exam#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
